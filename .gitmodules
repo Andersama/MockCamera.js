@@ -1,0 +1,6 @@
+[submodule "perlin-noise"]
+	path = perlin-noise
+	url = https://gist.github.com/banksean/304522
+[submodule "velocity"]
+	path = velocity
+	url = https://github.com/julianshapiro/velocity
